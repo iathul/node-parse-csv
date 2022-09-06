@@ -22,13 +22,6 @@ Setup environment variables
 
 - `cp .env.sample .env`, and modify as required
 
-Run in production mode
-
-```text
-npm start
-
-```
-
 Run node-parse-csv
 
 ```text
