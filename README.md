@@ -36,7 +36,7 @@ npm run dev or npm start
 
 ```
 
-node-parse-csv will be running in developing mode at
+node-parse-csv will be running  at
 
 ```text
 localhost: PORT
